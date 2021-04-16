@@ -1,15 +1,11 @@
 My Own Python Module Packages   
 
-dragonPy   
-	|   
-	|--- fio/   
-	|	  |   
-	|	  |--- csvHangul.py   
-	|	  |--- textHangul.py   
-	|   
-	|--- dataframe/   
-	|		|   
-	|		|--- csvToDataFrame.py   
-	|   
-	|--- __init__.py   
-	|--- README.md   
+'''dragonPy
+├── README.md
+├── __init__.py
+├── dataframe
+│   └── csvToDataFrame.py
+└── fio
+    ├── csvHangul.py
+    └── textHangul.py
+'''
